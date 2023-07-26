@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Practice Projects\Section8\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Simplilearn classes\Practice Projects\Section8\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Simplilearn classes\Practice Projects\Section8\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Simplilearn classes\Practice Projects\Section8\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Practice Projects\Section8\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Practice Projects\Section8\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Practice Projects\Section8\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Simplilearn classes\Practice Projects\Section8\Arrays\Arrays\obj\Debug\Arrays.pdb
